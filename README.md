@@ -4,11 +4,11 @@ Hi, I am Gabriel! This repository showcases my capstone project (Encampus) and p
 
 # Encampus - Online Collaboration System
 
-# Project Overview
+## Project Overview
 
 Encampus is an online collaboration system designed for educational institutions. Similar to platforms like Piazza, it facilitates communication and collaboration among students and instructors, streamlining discussions, announcements, and resource sharing.
 
-# Technologies Used
+## Technologies Used
 
 - Frontend: Rust, Leptos
 - Backend: Rust
@@ -17,20 +17,20 @@ Encampus is an online collaboration system designed for educational institutions
 
 ## Wed Rentals - Wedding Rental application
 
-# Project Overview
+## Project Overview
 
 Wed Rentals is a specialized wedding rental app that offers a curated selection of wedding-related items for rent. From decor to attire, the app simplifies the process of finding and renting unique items for a memorable wedding experience.
 
-# Technologies Used
+## Technologies Used
 - Frontend: Svlete, Typescript
 - Backend: Python
 - Database: PostgreSQL
 - Payment Integration: Stripe
 
-## License
+# License
 
 This project is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
+# Acknowledgments
 
 Thank you for visiting my portfolio! Hope you enjoy. 
