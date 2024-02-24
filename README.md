@@ -3,7 +3,6 @@
 Hi, I am Gabriel! This repository showcases my personal business project (Wed Rentals). Feel free to explore the projects and code within this repository to get a glimpse of my skills and accomplishments.
 
 ## Wed Rentals - Wedding Rental application
-![logo-pink 7276](https://github.com/gabefamodu/Block-2-Project-/assets/61390421/68b921ba-2208-49c9-961f-f9668ef983a5)
 
 ![WedRentalsGradientLogo](https://github.com/gabefamodu/Block-2-Project-/assets/61390421/4a6c1217-ae96-4633-a1f4-ecf8a68c1174)
 
