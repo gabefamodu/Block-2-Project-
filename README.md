@@ -1,6 +1,6 @@
 # Coding Portfolio
 
-Hi, I am Gabriel! This repository showcases my capstone project (Encampus) and personal business project (Wed Rentals). Feel free to explore the projects and code within this repository to get a glimpse of my skills and accomplishments.
+Hi, I am Gabriel! This repository showcases my personal business project (Wed Rentals). Feel free to explore the projects and code within this repository to get a glimpse of my skills and accomplishments.
 
 ## Wed Rentals - Wedding Rental application
 
