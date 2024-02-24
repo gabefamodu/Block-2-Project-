@@ -7,9 +7,6 @@ Hi, I am Gabriel! This repository showcases my personal business project (Wed Re
 
 ![WedRentalsGradientLogo](https://github.com/gabefamodu/Block-2-Project-/assets/61390421/4a6c1217-ae96-4633-a1f4-ecf8a68c1174)
 
-![WedRentalsGradientLogo](https://github.com/gabefamodu/Block-2-Project-/assets/61390421/1712fc02-440b-4dd0-aed1-11d5563f64a0)
-
-![WedRentalsGradLogo2](https://github.com/gabefamodu/Block-2-Project-/assets/61390421/684f8042-a8f0-43e1-8d79-a07d7a9a0a72)
 
 ## Project Overview
 
